@@ -7,7 +7,6 @@ Me chamdo Lucas da Mata, estudante do 3° semestre de Ciências da Computação.
 
 - 📂 Trablahando em:
   - <a href="https://github.com/LucasMGuima/RPG-Frinty" target="_blank">RPG-Frinty<a/>
-  - <a href="https://github.com/LucasMGuima/EP1-Podquest" target="_blank">EP1-Podquest<a/>
   - <a href="https://github.com/Pedro-bf/BOW" target="_blank">BOW<a/>
   
 <div align="center">
