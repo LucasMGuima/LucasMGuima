@@ -3,6 +3,7 @@ Me chamdo Lucas da Mata, estudante do 3° semestre de Ciências da Computação.
 
 - 📖 Estudando:
   - C#
+  - C
   - .Net Framework
 
 - 📂 Trablahando em:
