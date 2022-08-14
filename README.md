@@ -7,7 +7,8 @@ Me chamdo Lucas da Mata, estudante do 3° semestre de Ciências da Computação.
   - .Net Framework
 
 - 📂 Trabalhando em:
-  - <a href="https://github.com/LucasMGuima/Gerenciador-de-Sorteio" target="_blank">Gerenciador de Sorteios<a/>
+  - <a href="https://github.com/LucasMGuima/PI4SEM" target="_blank">PI - Computação Científica<a/>
+  - <a href="https://github.com/LucasMGuima/Selecao-Cumulativa" target="_blank">Seleção Cumulativa<a/>
   
 <div align="center">
   <a href="https://github.com/LucasMGuima">
