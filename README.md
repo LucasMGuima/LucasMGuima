@@ -1,10 +1,8 @@
 ### Hello There!
-Me chamdo Lucas da Mata, estudante do 3° semestre de Ciências da Computação.
+Me chamdo Lucas da Mata, estudante do 4° semestre de Ciências da Computação.
 
 - 📖 Estudando:
-  - C#
-  - C
-  - .Net Framework
+  - Python
 
 - 📂 Trabalhando em:
   - <a href="https://github.com/LucasMGuima/PI4SEM" target="_blank">PI - Computação Científica<a/>
