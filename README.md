@@ -1,10 +1,9 @@
 ### Hello There!
-Me chamdo Lucas da Mata, estudante do 4° semestre de Ciências da Computação.
+Me chamdo Lucas da Mata, estudante do 5° semestre de Ciências da Computação.
 
 - 📖 Estudando:
   - Python
-  - Ciência de dados
+  - Unity
 
 - 📂 Trabalhando em:
-  - <a href="https://github.com/LucasMGuima/PI4SEM" target="_blank">PI - Computação Científica<a/>
-  - <a href="https://github.com/LucasMGuima/UnimedBH-Ciencia-de-Dados" target="_blank">Bootcamp - UnimedBH<a/>
+  - <a href="https://github.com/LucasMGuima/TheDuke" target="_blank">PI - Aplicações de IA<a/>
