@@ -2,7 +2,7 @@
 Me chamdo Lucas da Mata, estudante do 5° semestre de Ciências da Computação.
 
 - 📖 Estudando:
-  - Python
+  - Python - IA
   - Unity
 
 - 📂 Trabalhando em:
