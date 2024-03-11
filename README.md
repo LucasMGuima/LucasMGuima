@@ -18,4 +18,5 @@ Me chamdo Lucas da Mata, estudante do 5° semestre de Ciências da Computação.
     Pela platafroma Kaggle e com o livro [Inteligência Artifical de George F. Luger](https://www.bvirtual.com.br/NossoAcervo/Publicacao/180430)
 
 - 📂 Trabalhando em:
+  - [Frozen Lake](https://github.com/LucasMGuima/FrozenLake)
   
