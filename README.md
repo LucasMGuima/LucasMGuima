@@ -19,3 +19,4 @@ Me chamdo Lucas da Mata, estudante do 5° semestre de Ciências da Computação.
 
 - 📂 Trabalhando em:
   - [AppCRUD](https://github.com/LucasMGuima/AppCRUD)
+  - [MineAssistV2](https://github.com/LucasMGuima/MineAssistV2)
