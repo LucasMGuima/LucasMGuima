@@ -20,3 +20,4 @@ Me chamdo Lucas da Mata, estudante do 5° semestre de Ciências da Computação.
 - 📂 Trabalhando em:
   - [Bookshelf](https://github.com/LucasMGuima/Bookshelf)
   - [MineAssistV2](https://github.com/LucasMGuima/MineAssistV2)
+  - [Arcade](https://github.com/LucasMGuima/Arcade)
