@@ -1,5 +1,5 @@
 ### Hello There!
-Me chamdo Lucas da Mata, estudante do 5° semestre de Ciências da Computação.
+Me chamdo Lucas da Mata, estudante do 6° semestre de Ciências da Computação.
 
 --- **Contato** ---
 
