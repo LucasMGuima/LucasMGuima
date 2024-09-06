@@ -13,9 +13,12 @@ Me chamdo Lucas da Mata, estudante do 6° semestre de Ciências da Computação.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasMGuima&theme=transparent&bg_color=708F8D&border_color=8F7072&show_icons=true&icon_color=5A5946&title_color=141515&text_color=141515)
 
-- 📖 Estudando:
-  - Inteligência Artificial
-    Pela platafroma Kaggle e com o livro [Inteligência Artifical de George F. Luger](https://www.bvirtual.com.br/NossoAcervo/Publicacao/180430)
-
 - 📂 Trabalhando em:
   - [PI 6° Semetre](https://github.com/LucasMGuima/PI6SEM)
+  - [Processamento de Imagem](https://github.com/LucasMGuima/ProcImg)
+  - [Computação Gráfica](https://github.com/LucasMGuima/AulaCompGrafica)
+  - [Simulador de Maquina de Turing](https://github.com/LucasMGuima/T01-SimuladorMT)
+    
+- 📋 Projetos do semestre:
+  - [Scrappe de Pokemons](https://github.com/LucasMGuima/EP-01_ExtracaoPokemon)
+  - [Lua C API](https://github.com/LucasMGuima/EP1-DB_C_mais_Lua)  
