@@ -17,8 +17,8 @@ Me chamdo Lucas da Mata, estudante do 6° semestre de Ciências da Computação.
   - [PI 6° Semetre](https://github.com/LucasMGuima/PI6SEM)
   - [Processamento de Imagem](https://github.com/LucasMGuima/ProcImg)
   - [Computação Gráfica](https://github.com/LucasMGuima/AulaCompGrafica)
-  - [Simulador de Maquina de Turing](https://github.com/LucasMGuima/T01-SimuladorMT)
     
 - 📋 Projetos do semestre:
   - [Scraper de Pokemons](https://github.com/LucasMGuima/EP-01_ExtracaoPokemon)
-  - [Lua C API](https://github.com/LucasMGuima/EP1-DB_C_mais_Lua)  
+  - [Lua C API](https://github.com/LucasMGuima/EP1-DB_C_mais_Lua)
+  - [Simulador de Maquina de Turing](https://github.com/LucasMGuima/T01-SimuladorMT)
