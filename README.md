@@ -11,7 +11,11 @@ Me chamdo Lucas da Mata, estudante do 7° semestre de Ciências da Computação.
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasMGuima&layout=compact&bg_color=708F8D&border_color=8F7072&title_color=141515&text_color=141515)
 
-### 📂 Trabalhando em:
+### Trabalhando em:
   - [Exércicios de Node e React](https://github.com/LucasMGuima/node)
   - [Exércicios de Computação Paralela e Distribuida](https://github.com/LucasMGuima/CPD)
   - [Mineassist](https://github.com/LucasMGuima/Mineassist)
+
+### Lendo
+  - [C Programming: A Modern Approach](http://knking.com/books/c2/)
+  - [Programação de Sistemas Embarcados](https://embarcados.com.br/programacao-de-sistemas-embarcados/)
