@@ -11,6 +11,11 @@ Me chamdo Lucas da Mata, estudante do 7° semestre de Ciências da Computação.
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasMGuima&layout=compact&bg_color=708F8D&border_color=8F7072&title_color=141515&text_color=141515)
 
+### Projetos
+  - [Simon PIC16F84](https://github.com/LucasMGuima/Learn/tree/main/Embarcados/PIC/PIC16F84A/Projetos/Simon)
+    
+    Desenvido uma simulação simples do jogo Simon utilizando o PIC16F84 e programado em linguagem C.
+
 ### Trabalhando em:
   - [Exércicios de Node e React](https://github.com/LucasMGuima/node)
   - [Exércicios de Computação Paralela e Distribuida](https://github.com/LucasMGuima/CPD)
