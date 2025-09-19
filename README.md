@@ -11,3 +11,4 @@ Olá! Sou Lucas, um estudante de Ciências da Computação trilhando o caminho p
 
 ### Projetos
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasMGuima&repo=Simon-PIC&theme=dark&hide_border=true)](https://github.com/LucasMGuima/Simon-PIC?tab=readme-ov-file)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasMGuima&repo=MineAssistent&theme=dark&hide_border=true)](https://github.com/LucasMGuima/MineAssistent?tab=readme-ov-file)
